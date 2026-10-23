@@ -1,0 +1,10 @@
+# Beach Litter Detection - Core Dependencies
+# For NVIDIA GPU acceleration (CUDA), install PyTorch via:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+matplotlib>=3.8.0
+pyyaml>=6.0
+pillow>=10.0.0
+pandas>=2.0.0

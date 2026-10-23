@@ -1,0 +1,15 @@
+# Ultralytics YOLO Dataset Configuration for Beach & Marine Litter Detection
+path: C:\Users\chikh\OneDrive\Desktop\dev\raplica\Beach-Litter-Detection\data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names:
+  0: bottle
+  1: can
+  2: plastic_bag
+  3: plastic_container
+  4: styrofoam
+  5: carton
+  6: other_litter
